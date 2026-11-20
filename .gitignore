@@ -1,0 +1,19 @@
+# Dependencies (thousands of files, never push these)
+node_modules/
+
+# Environment files (contain your DB password - never push these)
+.env
+.env.local
+src/.env
+
+# Logs
+logs/
+*.log
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Build output (if it exists)
+dist/
+build/
