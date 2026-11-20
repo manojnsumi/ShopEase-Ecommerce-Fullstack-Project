@@ -210,7 +210,7 @@ admin panel → see the order, change its status, download the invoice.
 
 \---
 
-## 7\. Project structure (generated from your tree file)
+## 7\. Project structure ( tree file)
 
 ```
 ecommerce-project/
